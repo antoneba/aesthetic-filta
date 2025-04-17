@@ -1,6 +1,6 @@
 # Aesthetic Filta
 
-A modern desktop application for enhancing bodybuilding photos with professional lighting filters.
+A modern desktop application for enhancing bodybuilding photos with professional lighting filters. Connect with me on LinkedIn @ https://www.linkedin.com/in/benjaminantonetti/
 
 ## Features (Planned)
 
